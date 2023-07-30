@@ -1,0 +1,49 @@
+body {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: rgb(245, 234, 220);
+  color: #333;
+  padding: 30px;
+}
+
+.app {
+  max-width: 600px;
+  margin: 0 auto 300px;
+  background-color: beige;
+  padding: 20px 30px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+p {
+  margin: 10px 0;
+}
+
+input {
+  box-sizing: border-box;
+}
+
+button{
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+}
+.todo-form{
+  padding-bottom: 1.5rem;
+}
+
+input,select{
+  padding:5px ;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  width: 100%;
+}
+
